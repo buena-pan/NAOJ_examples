@@ -41,7 +41,7 @@ followed by the desired test instruccion set
 > ./t54_interferometry_control.sh
 
 you can see the final results by looking on 
->ls /dev/shm/asm_td/rec/<dump>
+>ls /dev/shm/asm_td/rec/ -ltra
 
 
 [NAOJ logo]: https://www.nao.ac.jp/asset/ogp/logo-naoj.png
