@@ -1,9 +1,9 @@
-# Spectormer test on mitaka enviroment
+# Spectrometer test on mitaka enviroment
 Welcome to the fun of building and testing the mitaka test enviroment.
 ![NAOJ logo][NAOJ logo]
 
 ## Context
-We will be using Mitaka enviroment on NAOJ instalations. So, if you dont have access to it you should start thinking how to get access to it. Also, you should request root access.
+We will be using Mitaka enviroment on NAOJ instalations. So, if you dont have access to it you should start thinking on how to get access to it. Also, you should request root privileges .
 Open eclipse in you local enviroment. If you dont have it, please feel free to download it [here](https://www.eclipse.org/downloads/packages/release/2023-09/r/eclipse-ide-cc-developers).
 
 Clone into your workspace (is ok to set it up as default)the following repositories by **File--> Import --> Project from git--> Next--> Clone from URL--> set everything as default**. This process should by applied for this three repos.
@@ -31,13 +31,13 @@ Select the active configuration as Release and build the project by clicking on 
 Then you have to give more capabilities to the binary that you generated. In this time should be under your _/Release_, but this depends on the configurations.
 > sudo setcap cap_sys_admin,cap_sys_nice=+ep **filepath**
 
-And  run the test driver from gpuspec-test-driver repository. This will simulate the DRXP data
+And  run the test driver from gpuspec-test-driver repository. This will simulate ASC sub system
 > java -jar GPUSpectrometerTestDriver.jar
 
-To perform some simulated asc interaction you should do 
-> ./setup.sh #inside test driver repo inside resources/
+To perform some simulated ASC interaction you should do 
+> ./setup.sh #inside test driver repo under resources/
 
-followed by the desired test
+followed by the desired test instruccion set
 > ./t54_interferometry_control.sh
 
 you can see the final results by looking on 
