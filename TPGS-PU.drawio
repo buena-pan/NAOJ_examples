@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.6">
   <diagram name="Page-1" id="zhnkzlj7r6Azo-q6BEJL">
-    <mxGraphModel>
+    <mxGraphModel dx="744" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-1" value="TPGS-PU&lt;div&gt;USB processor&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ud-VxVPDWCNM-HSFa2yf-12" target="ud-VxVPDWCNM-HSFa2yf-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-12" value="Antenna 1 X USB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="150" y="161" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-19" value="NIC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="350" y="160" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-21" value="NIC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="350" y="190" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-23" value="NIC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="350" y="220" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-24" value="NIC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="350" y="250" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-25" value="NIC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="590" y="400" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ud-VxVPDWCNM-HSFa2yf-26" target="ud-VxVPDWCNM-HSFa2yf-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-26" value="Antenna 2 X USB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="150" y="191" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ud-VxVPDWCNM-HSFa2yf-28" target="ud-VxVPDWCNM-HSFa2yf-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-28" value="Antenna 3 X USB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="150" y="220" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ud-VxVPDWCNM-HSFa2yf-29" target="ud-VxVPDWCNM-HSFa2yf-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-29" value="Antenna 4 X USB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="150" y="250" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
