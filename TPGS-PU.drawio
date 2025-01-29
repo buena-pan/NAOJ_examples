@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.6">
   <diagram name="Page-1" id="zhnkzlj7r6Azo-q6BEJL">
-    <mxGraphModel dx="1097" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="594" dy="1425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,9 +106,6 @@
         <mxCell id="ud-VxVPDWCNM-HSFa2yf-82" value="Antenna 4 Y USB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="600" y="410" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ud-VxVPDWCNM-HSFa2yf-83" value="TPGS-PU&lt;div&gt;side band sub processor&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="410" y="-50" width="120" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="ud-VxVPDWCNM-HSFa2yf-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="ud-VxVPDWCNM-HSFa2yf-84" target="ud-VxVPDWCNM-HSFa2yf-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -161,6 +158,90 @@
         </UserObject>
         <mxCell id="ud-VxVPDWCNM-HSFa2yf-105" value="&lt;a href=&quot;https://confluence.alma.cl/display/ACAS/TPGS-PU+requirements&quot;&gt;TPGS-PU requirements&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="385" y="-391" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-111" value="Antenna 1 X USB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-112" value="Antenna 2 X USB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-113" value="Antenna 3 X USB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-114" value="Antenna 4 X USB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-119" value="Antenna 1 Y USB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-120" value="Antenna 2 Y USB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="140" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-121" value="Antenna 3 Y USB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-122" value="Antenna 4 Y USB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-123" value="&lt;b&gt;TPGS-CU&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="701" y="-100" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-124" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="-30.87" as="sourcePoint" />
+            <mxPoint x="350" y="-30.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-125" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="-30.869999999999997" as="sourcePoint" />
+            <mxPoint x="670" y="-30.869999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-128" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-160" width="125" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-129" value="PCIe sub domain" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-130" value="NIC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="435" y="-130" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-131" value="GPU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="485" y="-130" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-132" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="455" y="-90" as="sourcePoint" />
+            <mxPoint x="455" y="-30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-133" value="NNsub" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ud-VxVPDWCNM-HSFa2yf-132">
+          <mxGeometry x="-0.1261" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-134" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="515" y="-90" as="sourcePoint" />
+            <mxPoint x="515" y="-30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-135" value="NGsub" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ud-VxVPDWCNM-HSFa2yf-134">
+          <mxGeometry x="-0.3" y="3" relative="1" as="geometry">
+            <mxPoint x="2" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-136" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="487.29" y="-15" as="sourcePoint" />
+            <mxPoint x="487.29" y="45" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ud-VxVPDWCNM-HSFa2yf-137" value="NS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ud-VxVPDWCNM-HSFa2yf-136">
+          <mxGeometry x="-0.1261" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
